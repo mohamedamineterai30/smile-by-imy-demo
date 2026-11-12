@@ -56,8 +56,8 @@ globalThis.CLINIC = {
   daysAhead: 21,
 
   services: [
-    { id: "blanchiment", name: { fr: "Blanchiment dentaire bio", ar: "تبييض الأسنان الطبيعي" }, desc: { fr: "Sans douleur, formule PAP+. Environ une heure.", ar: "بدون ألم، تركيبة +PAP. حوالي ساعة." } },
-    { id: "bijou", name: { fr: "Bijou dentaire", ar: "جوهرة الأسنان" }, desc: { fr: "Un strass posé sur la dent, sans l'abîmer.", ar: "حجر لامع على السن، بدون إتلافه." } },
+    { id: "blanchiment", img: "assets/sourire.jpg", name: { fr: "Blanchiment dentaire bio", ar: "تبييض الأسنان الطبيعي" }, desc: { fr: "Sans douleur, formule PAP+. Environ une heure.", ar: "بدون ألم، تركيبة +PAP. حوالي ساعة." } },
+    { id: "bijou", img: "assets/bijoux.jpg", name: { fr: "Bijou dentaire", ar: "جوهرة الأسنان" }, desc: { fr: "Un strass posé sur la dent, sans l'abîmer.", ar: "حجر لامع على السن، بدون إتلافه." } },
     { id: "formation", name: { fr: "Formation", ar: "تكوين" }, desc: { fr: "Apprendre le blanchiment et la pose de bijoux.", ar: "تعلّم التبييض وتركيب المجوهرات." } },
   ],
 
